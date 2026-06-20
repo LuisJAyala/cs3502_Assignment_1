@@ -11,3 +11,12 @@ logwriter
 #Editor backups
 *~
 *.swp
+producer
+
+consumer
+
+simple_pipe
+
+*.txt
+
+*.txt#
